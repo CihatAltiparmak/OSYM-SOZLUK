@@ -58,6 +58,13 @@ class TDK extends AsyncTask<Void, Void, String>
     protected String doInBackground(Void... voids) { // arkaplanda siteden veri çekilir
         my.ayrac = "";
         while(my.sonuclar.getPaint().measureText(my.ayrac + "-") <= my.sonuclar.getMeasuredWidth() - dpToPx(26))
+            // Burada textviewin kendi uzunluğundan 26dp çıkarmamızın nedeni şu:
+            // my.sonuclar widgetinin sağ ve sol padding değerleri 10dp dir. 20dp buradan gelir. bknz layout/arama_ekrani.xml
+            // 6dp de bu widgetin kenarlarını oluşturmak için kullandığımız drawable/normal_sonuc_border.xml den geliyor. kenar kalınlığı 
+            // 3dp olduğu için sağ sol toplamı 6dp yapar. Bu da 26dp yapar. karşılaştırma px üzerinden
+            // yapıldığı için dp px e çevrilir.
+            // my.ayrac ın işlevini anlamak istiyorsanız lütfen hem manzara modunda hem de dikey modda uygulamada "ay" kelimesini aratın.
+            
             my.ayrac += "-";
 
         try {
