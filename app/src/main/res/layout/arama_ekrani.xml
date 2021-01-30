@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.arama.aramaFragment">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/kelime_giris"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/arama"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:text="Arama"
+                android:background="@drawable/arama_buton_shape"
+                android:layout_weight="0.5"
+                android:layout_marginRight="1dp"/>
+            <Button
+                android:id="@+id/rasgele"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:text="Rastgele Kelime"
+                android:background="@drawable/rasgele_buton_shape"
+                android:layout_weight="0.5"
+                android:layout_marginLeft="1dp"/>
+
+        </LinearLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="30dp">
+            <TextView
+                android:id="@+id/sonuclar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textIsSelectable="true"
+                android:textColor="@color/textDark"
+                android:paddingTop="30dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:background="@drawable/normal_sonuc_border"
+                />
+        </ScrollView>
+        
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

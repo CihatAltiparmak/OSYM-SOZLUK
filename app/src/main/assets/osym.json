@@ -1,0 +1,782 @@
+{
+    "akabinde": {
+        "anlam": "Ardından"
+    },
+    "aktivite": {
+        "anlam": "Etkinlik"
+    },
+    "alafranga": {
+        "anlam": "Avrupa tarzında, Avrupa tarzına uygun"
+    },
+    "alaturka": {
+        "anlam": "Türk tarzında, Türk tarzına uygun"
+    },
+    "algı": {
+        "anlam": "Bir şeyi anlama, onun bilincine varma yeteneği, idrak"
+    },
+    "amatör": {
+        "anlam": "1. Bir işi para kazanmak için değil de zevk için yapan<br><br>2. Bir işi, meslek veya alan uzmanı olmadan yapan"
+    },
+    "anımsamak": {
+        "anlam": "Hatırlamak"
+    },
+    "anımsatmak": {
+        "anlam": "Hatırlatmak"
+    },
+    "ardıl": {
+        "anlam": "1. Birinden sonra gelip onun yerine geçen kimse, halef<br><br>2. Mantıksal bir çıkarımda varılan sonuç"
+    },
+    "atılım": {
+        "anlam": "İleriye atılma, ilerleme çabası, hamle"
+    },
+    "aygıt": {
+        "anlam": "Alet, cihaz"
+    },
+    "ayrıksı": {
+        "anlam": "Alışılmışa aykırı olan"
+    },
+    "ayırt etmek": {
+        "anlam": "İki şeyi birbirinden ayıran nitelikleri anlamak"
+    },
+    "açılım": {
+        "anlam": "1. Bir soruna ilişkin yeni koşullara uygun değişiklik veya yenilik<br><br>2. Yeni bir bakış açısı getirme"
+    },
+    "ağdalı dil": {
+        "anlam": "Anlamı bilinmeyen, anlaşılması güç kelimelerle yüklü dil veya üslup"
+    },
+    "aşikâr": {
+        "anlam": "Açık, apaçık, belli"
+    },
+    "basmakalıp": {
+        "anlam": "Her yerde ve herkeste görülebilen, özgün olmayan, klişeleşmiş"
+    },
+    "bayağılaşmak": {
+        "anlam": "Sıradanlaşmak"
+    },
+    "bağdaştırma": {
+        "anlam": "Uyumlu , uzlaşmış, birbirine uygun hâle getirme"
+    },
+    "bağlam": {
+        "anlam": "Olaylar ve durumlar arasındaki bağlantı, ilişkiler ve şartlar örgüsü"
+    },
+    "beceri": {
+        "anlam": "Yetenek, maharet"
+    },
+    "bellek": {
+        "anlam": "Hafıza"
+    },
+    "betimleme": {
+        "anlam": "Bir şeyi söz ve yazıyla canlandırma, tasvir"
+    },
+    "birebir": {
+        "anlam": "1. Etkisi kesin olan<br><br>2. İstenildiği gibi, uygun"
+    },
+    "birikim": {
+        "anlam": "1. Gözlemler ve deneyler sonucu elde edilmiş şeylerin bütünü<br><br>2. Bilim veya sanat alanında sahip olunan bilgi, repertuvar"
+    },
+    "biçem": {
+        "anlam": "Üslup"
+    },
+    "butik (yayıncılık, otel)": {
+        "anlam": "Alışılmış standartlar yerine kişiselliğe açık, özgün seçenekler sunan (otel, lokanta, yayınevi vb.)"
+    },
+    "cüsse": {
+        "anlam": "Gövde, vücut"
+    },
+    "dağarcık": {
+        "anlam": "Bellek"
+    },
+    "dek": {
+        "anlam": "Bir işin veya durumun sona erdiği zaman veya yer; değin, kadar"
+    },
+    "delil": {
+        "anlam": "Kanıt"
+    },
+    "deneyim": {
+        "anlam": "Tecrübe"
+    },
+    "devinim": {
+        "anlam": "Hareket"
+    },
+    "değin": {
+        "anlam": "Dek, kadar"
+    },
+    "dingin": {
+        "anlam": "Sakin, durgun, hareket etmeyen"
+    },
+    "dinginleşmek": {
+        "anlam": "Sakin ve durgun hâle gelmek"
+    },
+    "duyarlı": {
+        "anlam": "Dış dünyadan gelecek etkileri alacak nitelikte olan, hassas"
+    },
+    "duyarlılık": {
+        "anlam": "Duyarlı olma durumu, hassasiyet"
+    },
+    "duyum": {
+        "anlam": "Doğruluğu kesin olmayan haber"
+    },
+    "duyumsama": {
+        "anlam": "Duyular yoluyla bir şeyi algılama hâli"
+    },
+    "duyumsamak": {
+        "anlam": "Duyular yoluyla algılamak"
+    },
+    "duyumsatmak": {
+        "anlam": "Duyumsamasını sağlamak, duyumsamasına sebep olmak"
+    },
+    "düzey": {
+        "anlam": "Seviye"
+    },
+    "düş": {
+        "anlam": "1. Rüya<br><br>2. Hayal"
+    },
+    "ebeveyn": {
+        "anlam": "Anne ve baba"
+    },
+    "edilgen": {
+        "anlam": "1. Yapılan işten etkilenen<br><br>2. Öznesi belli olmayan fiil"
+    },
+    "edilgin": {
+        "anlam": "Hareketi ve etkisi olmayan, pasif"
+    },
+    "edim": {
+        "anlam": "1. Yapılmış, gerçekleşmiş iş, amel, fiil<br><br>2. İnsan davranışı"
+    },
+    "edinmek": {
+        "anlam": "Elde etmek, sağlamak"
+    },
+    "editör": {
+        "anlam": "Yazıları yeniden düzenleyerek yayıma hazırlayan kimse"
+    },
+    "endemik": {
+        "anlam": "Sadece bir bölgede yetişen veya yaşayan (bitki, hayvan)"
+    },
+    "esin": {
+        "anlam": "Etkilenme, çağrışım veya içe doğmayla akla gelen yaratıcı duygu veya düşünce, ilham"
+    },
+    "esinlenmek": {
+        "anlam": "Bir şeyden ilham almak"
+    },
+    "etken": {
+        "anlam": "1. Etki eden şey, faktör<br><br>2. Öznesi belli fiil"
+    },
+    "etkileşim": {
+        "anlam": "Karşılıklı olarak birbirini etkileme"
+    },
+    "etkin": {
+        "anlam": "Hareketli, işleyen, çalışan, aktif"
+    },
+    "etmen": {
+        "anlam": "Bir sonucu meydana getirmede etkili olan güç veya unsur, faktör"
+    },
+    "faktör": {
+        "anlam": "Bir sonucu meydana getirmede etkili olan güç veya unsur, etmen"
+    },
+    "figür": {
+        "anlam": "1. Resim ve heykelde varlıkların biçimi<br><br>2. Bir dansı meydana getiren zincirleme hareketlerin her biri"
+    },
+    "gelişigüzel": {
+        "anlam": "Ayrı bir dikkat ve özen göstermeden, rastgele"
+    },
+    "gelişme": {
+        "anlam": "1. Olgunlaşma, İlerleme<br><br>2. Olan biten şey"
+    },
+    "gereksinim": {
+        "anlam": "İhtiyaç"
+    },
+    "giz": {
+        "anlam": "Sır"
+    },
+    "göreceli": {
+        "anlam": "Kesin olmayıp kişiden kişiye, zamandan zamana, yerden yere değişebilen"
+    },
+    "görkem": {
+        "anlam": "Göz alıcı ve gösterişli olma durumu, ihtişam"
+    },
+    "görkemli": {
+        "anlam": "Göz alıcı ve gösterişli, ihtişamlı"
+    },
+    "güldürü": {
+        "anlam": "Güldürme özelliği olan şey, komedi"
+    },
+    "gündelik": {
+        "anlam": "1. Gün hesabıyla veya her gün ödenen para, yevmiye<br><br>2. Günlük iş"
+    },
+    "günübirlik": {
+        "anlam": "Gece kalmadan, aynı gün dönmek üzere (seyahat, yapılan iş)"
+    },
+    "gütmek (amacını)": {
+        "anlam": "Gerçekleştirmeye çalışmak"
+    },
+    "habitat": {
+        "anlam": "Bitkinin doğal olarak yetiştiği yer, yurt"
+    },
+    "hacimli": {
+        "anlam": "Hacmi olan, büyük"
+    },
+    "hayat": {
+        "anlam": "Canlı olma durumu, yaşam"
+    },
+    "haz": {
+        "anlam": "Zevk"
+    },
+    "hiciv": {
+        "anlam": "Yergi"
+    },
+    "hicran": {
+        "anlam": "Ayrılık"
+    },
+    "ilkel": {
+        "anlam": "Gelişim sürecinin başında bulunan, iptidai, primitif"
+    },
+    "ilmek": {
+        "anlam": "Çözülmesi kolay düğüm"
+    },
+    "imge": {
+        "anlam": "Zihinsel tasarım, hayal, düş; bu nitelikteki kelime veya kelime grubu"
+    },
+    "imgelem": {
+        "anlam": "Hayal dünyası, muhayyile"
+    },
+    "imgelemek": {
+        "anlam": "Bir şeyi zihinde canlandırmak, tahayyül etmek"
+    },
+    "intizam": {
+        "anlam": "Düzen, tertip"
+    },
+    "irdelemek": {
+        "anlam": "Bir konunun bütün yönlerini birer birer araştırıp incelemek, tetkik etmek"
+    },
+    "irkilmek": {
+        "anlam": "Korkarak geri çekilir gibi olmak"
+    },
+    "ironi": {
+        "anlam": "Sözün tersini kastederek bir kişi, olay veya durumla alay etme"
+    },
+    "ironik": {
+        "anlam": "İroniye dayalı, alaylı"
+    },
+    "istifleme": {
+        "anlam": "Yığma, stoklama"
+    },
+    "ithaf": {
+        "anlam": "Sunma, armağan etme"
+    },
+    "ithaf etmek": {
+        "anlam": "Bir şeyi birinin adına sunmak, armağan etmek"
+    },
+    "itibar": {
+        "anlam": "Saygınlık"
+    },
+    "itibar etmek": {
+        "anlam": "Saygı göstermek, değer vermek"
+    },
+    "itibar görmek": {
+        "anlam": "Sayılmak, kendisine değer verilmek"
+    },
+    "ivedi": {
+        "anlam": "Acele, acele olarak"
+    },
+    "ivedilikle": {
+        "anlam": "Çabukça, acele olarak"
+    },
+    "izlek": {
+        "anlam": "1. Edebî eserde işlenen konu<br><br>2. Bu konunun anlamca ortaya koyduğu ana yönelim"
+    },
+    "izlenim": {
+        "anlam": "Bir durumun veya olayın duyular yolu ile insan üzerinde bıraktığı etki, intiba"
+    },
+    "içerik": {
+        "anlam": "Muhteva"
+    },
+    "içgörü": {
+        "anlam": "Kendi duygularını, kendi kendini anlayabilme yeteneği"
+    },
+    "işlev": {
+        "anlam": "Bir nesnenin veya kimsenin gördüğü iş, görev, fonksiyon"
+    },
+    "kanı": {
+        "anlam": "İnanç, düşünce, kanaat"
+    },
+    "kanıt": {
+        "anlam": "Delil"
+    },
+    "kara çalma": {
+        "anlam": "Birine iftira etme"
+    },
+    "karşıt": {
+        "anlam": "Zıt"
+    },
+    "karşıtlık": {
+        "anlam": "Zıtlık"
+    },
+    "katman": {
+        "anlam": "Tabaka"
+    },
+    "katmanlı": {
+        "anlam": "Kamanlardan oluşan, tabakalı"
+    },
+    "katmerlenmek": {
+        "anlam": "Kat kat olmak, fazlasıyla artmak"
+    },
+    "kavram": {
+        "anlam": "Bir nesnenin veya düşüncenin zihindeki tasarımı"
+    },
+    "kaygı": {
+        "anlam": "Endişe duyulan düşünce, üzüntü"
+    },
+    "kaygılanmak": {
+        "anlam": "Endişelenmek"
+    },
+    "kestirmek (tahmin)": {
+        "anlam": "Akıl yoluyla gerçeğe yakın bir yargıya varmak, tahmin etmek"
+    },
+    "klişe": {
+        "anlam": "1. Baskı kalıbı<br><br>2. Basmakalıp, tekdüze söz, görüş veya davranış"
+    },
+    "komodin": {
+        "anlam": "Karyola yanında kullanılan çekmecelik"
+    },
+    "koşul": {
+        "anlam": "Şart"
+    },
+    "kuram": {
+        "anlam": "1. Sistemli biçimde düzenlenmiş, birçok olayı açıklayan, bir bilime temel olan kurallar bütünü, nazariye, teori<br><br>2. Uygulama ve fayda sağlamayı dikkate almadan ortaya konan soyut bilgi"
+    },
+    "kuramcı": {
+        "anlam": "Bir kuramı ortaya koyan, teorisyen"
+    },
+    "kuramsal": {
+        "anlam": "Teorik"
+    },
+    "kurmaca": {
+        "anlam": "Tasarlanmış olan, tasarlanmış olarak sunulan olay"
+    },
+    "kurmacasal": {
+        "anlam": "Kurmaca niteliğinde olan, kurmacayla ilgili"
+    },
+    "kuruluş": {
+        "anlam": "Topluma hizmet, üretim, tüketim vb. amaçlarla kurulan her şey"
+    },
+    "kurum": {
+        "anlam": "Evlilik, aile, ortaklık, mülkiyet gibi köklü bir yapıyı içeren, genellikle devletle ilişkisi olan yapı veya birlik, müessese"
+    },
+    "kurumsallaşma": {
+        "anlam": "Örgütlü, düzenli ve sürekli hâle gelme"
+    },
+    "kuşak": {
+        "anlam": "Birbirine yakın yıllarda doğmuş, benzer şartlarda yaşamış kişiler topluluğu, nesil"
+    },
+    "kuşku": {
+        "anlam": "Şüphe"
+    },
+    "külliyat": {
+        "anlam": "Bir yazarın bütün eserlerini içeren dizi"
+    },
+    "lisan": {
+        "anlam": "Dil"
+    },
+    "mahzun": {
+        "anlam": "Hüzünlü, üzüntülü"
+    },
+    "maksat": {
+        "anlam": "Amaç, gaye"
+    },
+    "matem": {
+        "anlam": "Yas"
+    },
+    "mistik": {
+        "anlam": "Gizemci (kişi), gizeme dayalı (şey, eser)"
+    },
+    "mizah": {
+        "anlam": "Gülmece"
+    },
+    "motif": {
+        "anlam": "Bir sanat eserinde sık sık tekrarlanan unsur"
+    },
+    "muhayyile": {
+        "anlam": "Hayal gücü"
+    },
+    "müzikalite": {
+        "anlam": "Müziğe uygun özellikleri taşıma"
+    },
+    "nesil": {
+        "anlam": "Birbirine yakın yıllarda doğmuş, benzer şartlarda yaşamış kişiler topluluğu, kuşak"
+    },
+    "nesnel": {
+        "anlam": "Bireysel görüşten bağımsız olan, tarafsız, objektif"
+    },
+    "nicelik": {
+        "anlam": "Bir şeyin sayılabilen, ölçülebilen, azalıp çoğalabilen özellikleri, kemiyet"
+    },
+    "nitekim": {
+        "anlam": "1. Gerçekten, hakikaten<br><br>2. Sonuç olarak"
+    },
+    "nitelendirme": {
+        "anlam": "Niteliğini belirtme, nitelik kazandırma"
+    },
+    "nitelik": {
+        "anlam": "Bir şeyin nasıl olduğunu belirten, onu başka şeylerden ayıran özellik, keyfiyet"
+    },
+    "norm": {
+        "anlam": "Yargılama ve değerlendirmenin kendisine göre yapılacağı ölçüt, uyulacak kural"
+    },
+    "nüfuz": {
+        "anlam": "Söz geçirme, etki gücü"
+    },
+    "nüfuz etmek": {
+        "anlam": "Bir şeyin içine işlemek, sinmek"
+    },
+    "nüfuzu altına almak": {
+        "anlam": "Etkisi altına almak"
+    },
+    "odaklanma": {
+        "anlam": "Belli bir noktada, yerde veya olguda toplanma, yoğunlaşma"
+    },
+    "olanak": {
+        "anlam": "İmkân"
+    },
+    "olanaklı": {
+        "anlam": "Olma imkânı bulunan, mümkün"
+    },
+    "olasılık": {
+        "anlam": "İhtimal"
+    },
+    "oldubitti": {
+        "anlam": "Başkasına karışma fırsatı vermeden bir işi aceleye getirip sonuca bağlama işi, emrivaki"
+    },
+    "ortam": {
+        "anlam": "Bir varlığın içinde bulunduğu maddi, doğal, toplumsal ve kültürel şartlar bütünü"
+    },
+    "ozan": {
+        "anlam": "Şair"
+    },
+    "popüler": {
+        "anlam": "1. Halk zevkine uygun, halk arasında tutulan<br><br>2. Herkesçe bilinen, tanınan"
+    },
+    "potansiyel": {
+        "anlam": "Sahip olunan güç ve yetenek"
+    },
+    "profesyonel": {
+        "anlam": "1. Bir işi kazanç sağlamak amacıyla yapan, amatör karşıtı<br><br>2. Ustalaşmış, uzmanlaşmış"
+    },
+    "retorik": {
+        "anlam": "Güzel söz söyleme sanatı, hitabet"
+    },
+    "salt": {
+        "anlam": "1. İçinde yabancı bir öge bulunmayan, saf, arı<br><br>2. Yalnızca"
+    },
+    "saptama": {
+        "anlam": "Saptamak işi, tespit"
+    },
+    "saptamak": {
+        "anlam": "Bir şeyi belirgin kılmak, tespit etmek"
+    },
+    "sarmal": {
+        "anlam": "Dolana dolana oluşmuş, helezonlu"
+    },
+    "sav": {
+        "anlam": "1. İleri sürülerek savunulan düşünce, iddia, tez<br><br>2. Eski edebiyatta atasözü"
+    },
+    "savaşım": {
+        "anlam": "Sürekli çaba, mücadele"
+    },
+    "sayıp dökme": {
+        "anlam": "Bir konuyla ilişkili ne var ne yoksa hepsini söyleme"
+    },
+    "sağaltım": {
+        "anlam": "Tedavi, iyileştirme"
+    },
+    "sergen": {
+        "anlam": "1. Kitaplık rafı<br><br>2. Sergi için kullanılan camlı bölme, vitrin, camekân"
+    },
+    "serüven": {
+        "anlam": "Macera"
+    },
+    "seyyah": {
+        "anlam": "Gezgin"
+    },
+    "sezdirmek": {
+        "anlam": "Bir şeyi açıkça ifade etmeden anlatmak, hissettirmek"
+    },
+    "sezgi": {
+        "anlam": "Sezme yeteneği, feraset"
+    },
+    "sezmek": {
+        "anlam": "Açık bir kanıt olmaksızın olmuş veya olacak bir şeyi anlamak, kestirmek, hissetmek"
+    },
+    "seçki": {
+        "anlam": "Şairlerin, yazarların, bestecilerin eserlerinden alınmış seçme parçalardan oluşan eser, antoloji, güldeste"
+    },
+    "silüet": {
+        "anlam": "Karaltı, gölge"
+    },
+    "somutlaştırmak": {
+        "anlam": "Somut duruma getirmek"
+    },
+    "strateji": {
+        "anlam": "Bir hedefe varmak için önceden yapılan plan, bu plana uygun hareket, tutulan yol"
+    },
+    "suni": {
+        "anlam": "Doğal olmayan, insan eliyle yapılma olan, yapay"
+    },
+    "söylem": {
+        "anlam": "Kavramları kendine göre tanımlamış, iç bütünlüğe sahip ifade tarzı, bir fikri ortaya koymadaki yaklaşım tarzı"
+    },
+    "sınıflandırmak": {
+        "anlam": "Gruplandırmak, tasnif etmek"
+    },
+    "sığ": {
+        "anlam": "1. Derinliği az, dibi yüzeyine yakın olan (göl, deniz vb.)<br><br>2. Yeterli olmayan, detaylı olmayan (bilgi vb.)"
+    },
+    "tahrik etmek": {
+        "anlam": "Kışkırtmak"
+    },
+    "tanık gösterme": {
+        "anlam": "Görüşünü destekler veya doğrular tarzda alıntı yapma"
+    },
+    "tanıklık etmek": {
+        "anlam": "Şahitlik etmek"
+    },
+    "tasarım": {
+        "anlam": "Zihinde canlandırılan biçim, tasavvur; zihinde canlandırma"
+    },
+    "tasavvur": {
+        "anlam": "Tasarım, zihinde canlandırılan biçim; zihinde canlandırma"
+    },
+    "tasnif": {
+        "anlam": "Gruplandırma, sınıflandırma"
+    },
+    "tasnif etmek": {
+        "anlam": "Gruplandırmak, sınıflara ayırmak"
+    },
+    "tasvir etmek": {
+        "anlam": "Betimlemek"
+    },
+    "taşra": {
+        "anlam": "Bir ülkenin merkezi şehirleri dışında kalan yerler, dışarılık"
+    },
+    "tekdüze": {
+        "anlam": "Değişmeksizin, aynı biçimde tekrarlanan, monoton"
+    },
+    "tekdüzelik": {
+        "anlam": "Değişmeden, aynı biçimde tekrarlanma durumu, monotonluk"
+    },
+    "tematik": {
+        "anlam": "Bir tema etrafında oluşan"
+    },
+    "tespit": {
+        "anlam": "Saptama"
+    },
+    "tespit etmek": {
+        "anlam": "Saptamak, belirlemek"
+    },
+    "teşhis": {
+        "anlam": "Kişileştirme"
+    },
+    "tutum": {
+        "anlam": "Bir mesele karşısında tutulan yol, takınılan tavır"
+    },
+    "tökezlemek": {
+        "anlam": "Yürürken bir engele takılıp sendelemek; güçlük ve engellerle karşılaşmak"
+    },
+    "umarsızca": {
+        "anlam": "Çaresiz bir biçimde, çıkar yolu olmaksızın"
+    },
+    "uygar": {
+        "anlam": "Medeni, çağdaş"
+    },
+    "uygarlık": {
+        "anlam": "Medeniyet"
+    },
+    "varoluşsal": {
+        "anlam": "Varoluşla ilgili"
+    },
+    "varsayım": {
+        "anlam": "Henüz doğrulanmamış teorik düşünce, faraziye"
+    },
+    "vesile": {
+        "anlam": "Aracı"
+    },
+    "yadsımak": {
+        "anlam": "1. İnkâr etmek<br><br>2. Yabancı kalmak"
+    },
+    "yadsınamaz": {
+        "anlam": "İnkâr edilemez, hesap dışı tutulamaz (şey veya durum)"
+    },
+    "yadırgamak": {
+        "anlam": "Kendine yabancı gelen bir şeye, bir kimseye, bir duruma alışamamak, ısınamamak"
+    },
+    "yakınmak": {
+        "anlam": "Şikâyet etmek, sızlanarak anlatmak"
+    },
+    "yaldız": {
+        "anlam": "1. Eşyalara değerli görünümü vermek için kullanılan, altın veya gümüş veya bunların taklidi olan madde<br><br>2. Aldatıcı dış görünüş, göz boyama"
+    },
+    "yalın": {
+        "anlam": "Gösterişsiz, süssüz, sade (söz veya yazı)"
+    },
+    "yanılgı": {
+        "anlam": "Yanılma durumu, yanlış davranış"
+    },
+    "yapay": {
+        "anlam": "İnsan eliyle yapılmış olan, doğal olmayan, suni"
+    },
+    "yapı": {
+        "anlam": "Bina"
+    },
+    "yapıt": {
+        "anlam": "Eser"
+    },
+    "yaratı": {
+        "anlam": "Özel bir yetenekle ortaya konan eser, yaratım"
+    },
+    "yargı": {
+        "anlam": "Belli değerlendirmeler sonunda, bir kişi veya durum hakkında varılan karar, hüküm"
+    },
+    "yavan": {
+        "anlam": "Kuru, tatsız, zevksiz"
+    },
+    "yavanlaşma": {
+        "anlam": "Kuru ve zevksiz hâle gelme"
+    },
+    "yayımlamak": {
+        "anlam": "1. Basmak, neşretmek (kitap, dergi vb.)<br><br>2. Radyo vb. ile dinleyiciye veya seyirciye sunmak"
+    },
+    "yayın": {
+        "anlam": "Basılmış veya sunulmuş eser"
+    },
+    "yazgı": {
+        "anlam": "Alın yazısı, kader"
+    },
+    "yazın": {
+        "anlam": "Edebiyat"
+    },
+    "yazınsal": {
+        "anlam": "Edebî, edebiyatla ilgili"
+    },
+    "yazınsallık": {
+        "anlam": "Edebîlik"
+    },
+    "yaşam": {
+        "anlam": "Hayat, ömür"
+    },
+    "yaşam tarzı": {
+        "anlam": "Yaşayış biçimi"
+    },
+    "yaşantı": {
+        "anlam": "1. Hayat tarzı<br><br>2. Hayatın belli bir bölümü"
+    },
+    "yerel": {
+        "anlam": "Yöresel, bölgesel"
+    },
+    "yergi": {
+        "anlam": "Bir şeyin veya kimsenin olumsuzluklarını belirtmek, eleştirmek için söylenmiş söz"
+    },
+    "yerme": {
+        "anlam": "Kötülüklerini, olumsuzluklarını söyleme"
+    },
+    "yeti": {
+        "anlam": "Yetenek, güç, meleke"
+    },
+    "yetkinlik": {
+        "anlam": "Olgunluk, mükemmeliyet"
+    },
+    "yeğlemek": {
+        "anlam": "Tercih etmek"
+    },
+    "yineleme": {
+        "anlam": "Tekrarlama"
+    },
+    "yinelemek": {
+        "anlam": "Tekrarlamak"
+    },
+    "yoksunluk": {
+        "anlam": "Belli bir şeye sahip olmama durumu, mahrumiyet"
+    },
+    "yoz": {
+        "anlam": "Bozulmuş, çürümüş, yozlaşmış (davranış, tutum, anlayış vb.)"
+    },
+    "yozlaşma": {
+        "anlam": "Bozulma, dejenere olma"
+    },
+    "yoğunlaşma": {
+        "anlam": "Bir yere, bir noktaya toplanıp birikme, çoğalma"
+    },
+    "yönelim": {
+        "anlam": "Bir durum veya konu hakkındaki kişisel düşünce, tutum ve eğilim"
+    },
+    "yöresel": {
+        "anlam": "Belli bir yöreyle ilgili, yöreye has, yerel, mahallî"
+    },
+    "yükümlü": {
+        "anlam": "Bir şeyi yapma zorunluluğu olan, sorumlu, mükellef"
+    },
+    "yükümlülük": {
+        "anlam": "Görev, sorumluluk, mükellefiye"
+    },
+    "çağrışım": {
+        "anlam": "Bir düşünce, görüntü veya sözün bir başkasını akla getirmesi, hatırlatması"
+    },
+    "çehre": {
+        "anlam": "Yüz, sima"
+    },
+    "çıkarsama": {
+        "anlam": "Bir önermeden düşünce yoluyla başka bir önermeye ulaşma, çıkarımda bulunma işi"
+    },
+    "çıkarım": {
+        "anlam": "Mantıksal sonuç çıkarma, istidlal"
+    },
+    "öge": {
+        "anlam": "Bir bütündeki kendi başına anlam taşıyan parça, unsur"
+    },
+    "ölçüt": {
+        "anlam": "Bir yargıya varmak ve değer vermek için başvurulan ilke, kıstas, kriter"
+    },
+    "öncül": {
+        "anlam": "Kıyas işleminde kendilerinden sonuç çıkarmak için kullanılan önermelerden her biri"
+    },
+    "örneksemek": {
+        "anlam": "Örnek olarak almak"
+    },
+    "örtüşmek": {
+        "anlam": "1. Aynı noktalarda ve düzlemlerde kesişmek<br><br>2. İki görüş, düşünce veya sözcüğün birbiriyle tam olarak uyuşması"
+    },
+    "övünç": {
+        "anlam": "Övünme, iftihar"
+    },
+    "öyküleme": {
+        "anlam": "Hikâyeleştirme, hikâyeleştirerek anlatma"
+    },
+    "öykünme": {
+        "anlam": "Birine veya bir şeye benzemeye çalışma, taklit"
+    },
+    "öykünmeci": {
+        "anlam": "Taklitçi"
+    },
+    "özdeşleşmek": {
+        "anlam": "Biriyle veya bir şeyle bütün nitelikler bakımından aynı duruma gelmek, aynılaşmak"
+    },
+    "özgün": {
+        "anlam": "Kendine has nitelikleri olan, orijinal"
+    },
+    "öznel": {
+        "anlam": "Özneye ait olan, nesnenin gerçekliğine değil bireyin duygu ve düşüncelerine dayanan, subjektif"
+    },
+    "özümsemek": {
+        "anlam": "Edinilmiş bilgileri kişinin öz malı durumuna getirmek, kendine ait kılmak"
+    },
+    "ülkü": {
+        "anlam": "Dava, ideal"
+    },
+    "üslup": {
+        "anlam": "Yapış veya anlatış tarzı, biçem"
+    },
+    "şairane": {
+        "anlam": "Şairce, şair olana yakışır tarzda"
+    },
+    "şuur": {
+        "anlam": "Bilinç"
+    }
+}
