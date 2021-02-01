@@ -24,7 +24,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="80dp"
-            android:divider="#DAB457"
+            android:divider="@color/secondaryLightColor"
             android:dividerHeight="3dp"
             android:background="@drawable/listview_border"
             android:headerDividersEnabled="true"

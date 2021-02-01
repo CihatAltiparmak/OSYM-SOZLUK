@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:shape="rectangle">
-    <solid android:color="@android:color/white" />
+    <solid android:color="@color/primaryLightColor" />
     <stroke android:width="3dp" android:color="#410066"/>
 
 
