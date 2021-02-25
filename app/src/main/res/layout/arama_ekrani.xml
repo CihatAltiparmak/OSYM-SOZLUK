@@ -14,7 +14,7 @@
         android:orientation="vertical"
         android:background="@color/primaryColor">
 
-        <EditText
+        <TextView
             android:id="@+id/kelime_giris"
             android:layout_width="match_parent"
             android:layout_height="40dp"
@@ -23,21 +23,14 @@
             android:background="@color/primaryLightColor"
             android:layout_marginBottom="10dp"
             android:layout_marginTop="10dp"
-            android:hint="Aramak istediğiniz kelimeyi giriniz."/>
+            android:textColor="@color/primaryTextColor"
+            android:gravity="center"/>
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="horizontal">
 
-            <Button
-                android:id="@+id/arama"
-                android:layout_width="fill_parent"
-                android:layout_height="40dp"
-                android:text="Arama"
-                android:background="@drawable/arama_buton_shape"
-                android:layout_weight="0.5"
-                android:layout_marginRight="1dp"/>
             <Button
                 android:id="@+id/rasgele"
                 android:layout_width="fill_parent"
