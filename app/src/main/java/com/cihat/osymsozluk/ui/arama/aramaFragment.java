@@ -85,8 +85,9 @@ public class aramaFragment extends Fragment {
                 // ve bu kelime anlamı ile beraber gösterilir
                 String kelime_rastgele = rastgele_kelime_sec();
                 String anlam_rastgele = kelimeden_anlam_elde_et(kelime_rastgele);
-                anlam_rastgele = "<u><p style='color:#A26900'><i>Anlamı</i></p></u><p><i>" + anlam_rastgele + "</i></p>";
-                my.kelime_giris.setText(Html.fromHtml("<div style = 'text-align : center'><h2><b><u>" + kelime_rastgele +"</u></b></h2></div>"));
+                anlam_rastgele = "<u><p style='color: #eaea05 '><i>Anlamı</i></p></u>" +
+                                 "<p style = 'color:  #ffffff'><i>" + anlam_rastgele + "</i></p>";
+                my.kelime_giris.setText(Html.fromHtml("<div style = 'text-align : center'><h2><b><u>" + kelime_rastgele +"</u></b></h2></font></div>"));
                 my.sonuclar.setText(Html.fromHtml(anlam_rastgele));
                 my.sonuclar.setVisibility(View.VISIBLE);
             }
@@ -99,8 +100,8 @@ public class aramaFragment extends Fragment {
             String word = my.arama_model.getKelime().getValue();
             my.kelime_giris.setText(Html.fromHtml("<div style = 'text-align : center'><h2><b><u>" + word +"</u></b></h2></div>"));
             String bastirilacak_anlam = my.arama_model.getAnlam().getValue();
-            bastirilacak_anlam = "<u><i><p style = 'color:#A26900'>Anlamı</p></i></u>" +
-                    "<p><i>" + bastirilacak_anlam + "</i></p>";
+            bastirilacak_anlam = "<u><i><p style = 'color:#eaea05'>Anlamı</p></i></u>" +
+                    "<p style = 'color:  #ffffff'><i>" + bastirilacak_anlam + "</i></p>";
             my.sonuclar.setText(Html.fromHtml(bastirilacak_anlam));
             my.arama_model.setHemenAra(false);
             my.sonuclar.setVisibility(View.VISIBLE);

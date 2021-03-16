@@ -3,8 +3,8 @@
 
     <item
         android:id="@+id/navigation_home"
-        android:icon="@drawable/ic_baseline_search_24"
-        android:title="Aramalar" />
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Ana Menü" />
 
     <item
         android:id="@+id/navigation_dashboard"

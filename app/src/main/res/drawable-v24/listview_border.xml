@@ -4,7 +4,7 @@
     android:layout_height="match_parent">
     <stroke
         android:width="2dp"
-        android:color="@color/secondaryColor" />
+        android:color="@color/primaryLightColor" />
     <solid
-        android:color="@color/primaryLightColor"/>
+        android:color="@color/primaryColor"/>
 </shape>

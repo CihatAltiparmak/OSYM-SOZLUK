@@ -36,9 +36,9 @@
                 android:layout_width="fill_parent"
                 android:layout_height="40dp"
                 android:text="Rastgele Kelime"
-                android:background="@drawable/rasgele_buton_shape"
-                android:layout_weight="0.5"
-                android:layout_marginLeft="1dp"/>
+                android:textColor="@color/primaryDarkColor"
+                android:background="@color/secondaryLightColor"
+                />
 
         </LinearLayout>
 
