@@ -16,16 +16,22 @@
         <TextView
             android:id="@+id/baslikKaydedilenler"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="50dp"
             android:layout_gravity="center"
-            android:textColor="@color/textDark"/>
+            android:textColor="@color/primaryTextColor"
+            android:gravity="center"/>
+
         <ListView
             android:id="@+id/osym_kelimeleri"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="80dp"
-            android:divider="@color/secondaryLightColor"
-            android:dividerHeight="3dp"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:divider="@color/secondaryColor"
+            android:dividerHeight="5dp"
             android:background="@drawable/listview_border"
             android:headerDividersEnabled="true"
             android:footerDividersEnabled="true">

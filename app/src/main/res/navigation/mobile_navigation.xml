@@ -8,12 +8,12 @@
     <fragment
         android:id="@+id/navigation_home"
         android:name="com.cihat.osymsozluk.ui.arama.aramaFragment"
-        android:label="ÖSYM Sözlük"
+        android:label="ÖSYM Sözlüğü"
         tools:layout="@layout/arama_ekrani" />
 
     <fragment
         android:id="@+id/navigation_dashboard"
         android:name="com.cihat.osymsozluk.ui.kelimeler.kelimelerFragment"
-        android:label="ÖSYM Sözlük"
+        android:label="Kelime Listesi"
         tools:layout="@layout/kelimeler_ekrani" />
 </navigation>

@@ -5,13 +5,18 @@
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#ffc478</color>
     -->
-    <color name="primaryColor">#b39ddb</color>
-    <color name="primaryLightColor">#e6ceff</color>
-    <color name="primaryDarkColor">#836fa9</color>
-    <color name="secondaryColor">#d32f2f</color>
-    <color name="secondaryLightColor">#ff6659</color>
-    <color name="secondaryDarkColor">#9a0007</color>
-    <color name="primaryTextColor">#000000</color>
-    <color name="secondaryTextColor">#ffffff</color>
+
+
+    <color name="primaryColor">#333533</color>
+    <color name="primaryLightColor">#505350</color>
+    <color name="primaryDarkColor">#242423</color>
+    <color name="primaryTextColor">#CFDBD5</color>
+
+    <color name="secondaryColor">#F5CB5C</color>
+    <color name="secondaryLightColor">#F8DB8C</color>
+    <color name="secondaryDarkColor">#F3C33F</color>
+
+    <color name="secondaryTextColor">#242423</color>
     <color name="textDark">#000000</color>
+
 </resources>
