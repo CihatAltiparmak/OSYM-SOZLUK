@@ -40,7 +40,7 @@ public class kelimelerFragment extends Fragment {
         my.osym_kelimeleri = my.root.findViewById(R.id.osym_kelimeleri);
 
         TextView baslik = (TextView) my.root.findViewById(R.id.baslikKaydedilenler);
-        baslik.setText(Html.fromHtml("<div style = 'text-align : center'><h2><font color = '#ffffff'><b><u>ÖSYM'de Sıkça Kullanılan Kelimeler</u></b></font></h2></div>"));
+        baslik.setText(Html.fromHtml("<h2><b><u>ÖSYM'de Sıkça Kullanılan Kelimeler</u></b></h2>"));
 
         final kelimelerModel kaydet_model =
                 ViewModelProviders.of(getActivity()).get(kelimelerModel.class);

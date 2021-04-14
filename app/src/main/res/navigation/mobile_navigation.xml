@@ -8,7 +8,7 @@
     <fragment
         android:id="@+id/navigation_home"
         android:name="com.cihat.osymsozluk.ui.arama.aramaFragment"
-        android:label="ÖSYM Sözlük"
+        android:label="ÖSYM Sözlüğü"
         tools:layout="@layout/arama_ekrani" />
 
     <fragment

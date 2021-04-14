@@ -3,5 +3,4 @@
     <string name="hakkinda">Hakkında</string>
     <string name="hakkinda_mesaji">Açıklama:\n\nBu küçük sözlük, ÖSYM tarafından yapılan sınavlarda sıkça kullanılan ama günlük dilde bu sıklıkta kullanmadığımız bazı kelimeleri kapsamaktadır. Sözlükteki kelimelerin bütün anlamları değil, ÖSYM sınavlarında öne çıkan anlamları izah edilmiştir. Sözlüğün yazımında TDK kuralları esas alınmıştır. Anlamlandırma yapılırken de TDK Güncel Türkçe Sözlük mümkün olduğunca dikkate alınmıştır.\n\nLogo <a color = 'blue' href='https://www.instagram.com/requiemforanything/'>@requiemforanything</a> tarafından hazırlandı.
     </string>
-    <string name="deneme"><a href="https://forum.yazbel.com">deneme jarbay</a></string>
 </resources>

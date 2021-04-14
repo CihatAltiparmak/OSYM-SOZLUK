@@ -3,8 +3,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
     <stroke
-        android:width="2dp"
-        android:color="@color/primaryLightColor" />
+        android:width="5dp"
+        android:color="@color/secondaryColor" />
     <solid
         android:color="@color/primaryColor"/>
 </shape>

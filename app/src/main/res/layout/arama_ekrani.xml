@@ -35,9 +35,9 @@
                 android:id="@+id/rasgele"
                 android:layout_width="fill_parent"
                 android:layout_height="40dp"
-                android:text="Rastgele Kelime"
+                android:text="RASTGELE KELİME"
                 android:textColor="@color/primaryDarkColor"
-                android:background="@color/secondaryLightColor"
+                android:background="@color/secondaryColor"
                 />
 
         </LinearLayout>
@@ -53,10 +53,10 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textIsSelectable="true"
-                android:textColor="@color/textDark"
+                android:textColor="@color/primaryTextColor"
                 android:paddingTop="30dp"
-                android:paddingLeft="10dp"
-                android:paddingRight="10dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
                 android:background="@drawable/normal_sonuc_border"
                 />
         </ScrollView>
