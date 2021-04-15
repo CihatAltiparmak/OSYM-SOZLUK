@@ -1,7 +1,7 @@
 # OSYM-SOZLUK
 ÖSYM sınavlarında sıkça çıkan kelimeler için yapılmış sözlük uygulaması
 
-Bu uygulama içerisinde bulundurduğu liste ile ÖSYM'de sıkça kullanılan kelimeleri de sizlerin hizmetine sunmaktadır. 
+Bu uygulama, içerisinde bulundurduğu liste ile ÖSYM'de sıkça kullanılan kelimeleri sizlerin hizmetine sunmaktadır. 
 
 Bu küçük sözlük, ÖSYM tarafından yapılan sınavlarda sıkça kullanılan ama günlük dilde bu sıklıkta kullanmadığımız bazı kelimeleri kapsamaktadır. Sözlükteki kelimelerin bütün anlamları değil, ÖSYM sınavlarında öne çıkan anlamları izah edilmiştir. Sözlüğün yazımında TDK kuralları esas alınmıştır. Anlamlandırma yapılırken de TDK Güncel Türkçe Sözlük mümkün olduğunca dikkate alınmıştır.
 
